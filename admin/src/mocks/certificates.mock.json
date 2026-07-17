@@ -1,0 +1,128 @@
+[
+  {
+    "id": 201,
+    "citizen_id": 1,
+    "panchayat_id": 1,
+    "reference_no": "CERT-2026001",
+    "type": "birth",
+    "status": "pending",
+    "details": {
+      "child_name": "Aarav Rajesh Patil",
+      "gender": "male",
+      "dob": "2026-06-15",
+      "pob": "Nerle Civic Hospital",
+      "father_name": "Rajesh Kumar Patil",
+      "mother_name": "Sunita Rajesh Patil"
+    },
+    "remark": null,
+    "pdf_url": null,
+    "citizen_name": "Rajesh Kumar Patil",
+    "citizen_mobile": "9876543210",
+    "panchayat_name": "Nerle Gram Panchayat",
+    "created_at": "2026-07-01T10:00:00Z",
+    "updated_at": "2026-07-01T10:00:00Z"
+  },
+  {
+    "id": 202,
+    "citizen_id": 2,
+    "panchayat_id": 1,
+    "reference_no": "CERT-2026002",
+    "type": "income",
+    "status": "under_review",
+    "details": {
+      "annual_income": "₹ 1,20,000",
+      "financial_year": "2025-2026",
+      "purpose": "Higher Education Scholarship application"
+    },
+    "remark": "Income tax declaration document verified, physical inspection pending.",
+    "pdf_url": null,
+    "citizen_name": "Savita Shamrao Deshmukh",
+    "citizen_mobile": "9865327410",
+    "panchayat_name": "Nerle Gram Panchayat",
+    "created_at": "2026-07-02T11:30:00Z",
+    "updated_at": "2026-07-03T15:00:00Z"
+  },
+  {
+    "id": 203,
+    "citizen_id": 3,
+    "panchayat_id": 1,
+    "reference_no": "CERT-2026003",
+    "type": "residence",
+    "status": "ready",
+    "details": {
+      "stay_duration": "15 years",
+      "ration_card_no": "RC-MH-2038102"
+    },
+    "remark": "Documents verified by Ward Officer.",
+    "pdf_url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+    "citizen_name": "Anil Maruti Kadam",
+    "citizen_mobile": "9922110033",
+    "panchayat_name": "Nerle Gram Panchayat",
+    "created_at": "2026-06-20T08:00:00Z",
+    "updated_at": "2026-06-22T10:00:00Z"
+  },
+  {
+    "id": 204,
+    "citizen_id": 4,
+    "panchayat_id": 2,
+    "reference_no": "CERT-2026004",
+    "type": "death",
+    "status": "approved",
+    "details": {
+      "deceased_name": "Bhimrao Sopan Jagtap",
+      "age": 78,
+      "dod": "2026-06-10",
+      "pod": "Kole Village Residence"
+    },
+    "remark": "Hospital certificate and witness statement attached.",
+    "pdf_url": null,
+    "citizen_name": "Vikas Anandrao Jagtap",
+    "citizen_mobile": "9898989898",
+    "panchayat_name": "Kole Gram Panchayat",
+    "created_at": "2026-06-25T09:00:00Z",
+    "updated_at": "2026-06-26T14:30:00Z"
+  },
+  {
+    "id": 205,
+    "citizen_id": 5,
+    "panchayat_id": 2,
+    "reference_no": "CERT-2026005",
+    "type": "income",
+    "status": "rejected",
+    "details": {
+      "annual_income": "₹ 4,50,000",
+      "financial_year": "2025-2026",
+      "purpose": "Bank Loan Subsidy Scheme"
+    },
+    "remark": "Applicant annual income exceeds the maximum limit for rural subsidy certificate.",
+    "pdf_url": null,
+    "citizen_name": "Snehal Amit Patil",
+    "citizen_mobile": "9933445566",
+    "panchayat_name": "Kole Gram Panchayat",
+    "created_at": "2026-07-04T12:00:00Z",
+    "updated_at": "2026-07-06T11:00:00Z"
+  },
+  {
+    "id": 206,
+    "citizen_id": 6,
+    "panchayat_id": 2,
+    "reference_no": "CERT-2026006",
+    "type": "birth",
+    "status": "pending",
+    "details": {
+      "child_name": "Riya Vikas Jagtap",
+      "gender": "female",
+      "dob": "2026-07-10",
+      "pob": "Jagtap Nursing Home, Kole",
+      "father_name": "Vikas Anandrao Jagtap",
+      "mother_name": "Priyanka Vikas Jagtap"
+    },
+    "remark": null,
+    "pdf_url": null,
+    "citizen_name": "Vikas Anandrao Jagtap",
+    "citizen_mobile": "9898989898",
+    "panchayat_name": "Kole Gram Panchayat",
+    "created_at": "2026-07-12T14:00:00Z",
+    "updated_at": "2026-07-12T14:00:00Z"
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "panchayat_id": 1,
+    "panchayat_name": "Nerle Gram Panchayat",
+    "title": "Pre-Monsoon Preparedness Sabha",
+    "agenda": "Drainage cleanup, water purification, emergency shelter planning.",
+    "date": "2026-05-10T11:00:00Z",
+    "status": "completed",
+    "attendees": 145,
+    "resolutions": "1. Allocated 50,000 INR for drainage desilting. 2. Arranged chlorine powder distribution to all wards."
+  },
+  {
+    "id": 2,
+    "panchayat_id": 1,
+    "panchayat_name": "Nerle Gram Panchayat",
+    "title": "Development Plan Budget Approval",
+    "agenda": "Reviewing proposals for road repairs, solar street light installation, and school renovation grants.",
+    "date": "2026-08-20T10:00:00Z",
+    "status": "scheduled",
+    "attendees": 0,
+    "resolutions": ""
+  },
+  {
+    "id": 3,
+    "panchayat_id": 2,
+    "panchayat_name": "Kole Gram Panchayat",
+    "title": "Drinking Water Supply Upgradation Sabha",
+    "agenda": "Discussion on installing new overhead water tank, water supply timing changes.",
+    "date": "2026-06-15T11:00:00Z",
+    "status": "completed",
+    "attendees": 92,
+    "resolutions": "Approved the site for the new overhead tank near Hanuman temple. Requested water supply timing to be shifted to morning."
+  }
+]

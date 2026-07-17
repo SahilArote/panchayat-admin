@@ -1,0 +1,22 @@
+{
+  "nav": {
+    "dashboards": {
+      "dashboards": "Dashboards",
+      "home": "Home",
+      "complaints": "Complaints",
+      "certificates": "Certificates",
+      "notices": "Notices Board",
+      "schemes": "Welfare Schemes",
+      "water-bills": "Water Bills Dues",
+      "panchayats": "Panchayat Manager",
+      "citizens": "Citizens Directory",
+      "admin-users": "Admin Users",
+      "gram-sabha": "Gram Sabha Meetings"
+    },
+    "settings": {
+      "settings": "Settings",
+      "general": "General",
+      "appearance": "Appearance"
+    }
+  }
+}

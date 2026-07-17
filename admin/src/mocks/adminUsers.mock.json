@@ -1,0 +1,38 @@
+[
+  {
+    "id": 888,
+    "name": "GP Admin - Nerle",
+    "mobile": "8888888888",
+    "role": "gp_admin",
+    "panchayat_id": 1,
+    "panchayat_name": "Nerle Gram Panchayat",
+    "created_at": "2024-01-01T12:00:00Z"
+  },
+  {
+    "id": 889,
+    "name": "GP Admin - Kole",
+    "mobile": "8888888889",
+    "role": "gp_admin",
+    "panchayat_id": 2,
+    "panchayat_name": "Kole Gram Panchayat",
+    "created_at": "2024-01-05T09:00:00Z"
+  },
+  {
+    "id": 890,
+    "name": "GP Admin - Yewalewadi",
+    "mobile": "8888888890",
+    "role": "gp_admin",
+    "panchayat_id": 3,
+    "panchayat_name": "Yewalewadi Gram Panchayat",
+    "created_at": "2024-01-10T11:00:00Z"
+  },
+  {
+    "id": 999,
+    "name": "Super Administrator",
+    "mobile": "9999999999",
+    "role": "super_admin",
+    "panchayat_id": null,
+    "panchayat_name": "All Panchayats",
+    "created_at": "2023-12-01T08:00:00Z"
+  }
+]

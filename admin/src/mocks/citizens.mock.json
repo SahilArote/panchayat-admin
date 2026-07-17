@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "panchayat_id": 1,
+    "name": "Rajesh Kumar Patil",
+    "mobile": "9876543210",
+    "gender": "male",
+    "age": 42,
+    "address": "Gat No 245, Near Hanuman Mandir, Nerle",
+    "role": "citizen",
+    "panchayat_name": "Nerle Gram Panchayat",
+    "created_at": "2024-02-15T08:00:00Z",
+    "updated_at": "2024-02-15T08:00:00Z"
+  },
+  {
+    "id": 2,
+    "panchayat_id": 1,
+    "name": "Savita Shamrao Deshmukh",
+    "mobile": "9865327410",
+    "gender": "female",
+    "age": 36,
+    "address": "Ward No 3, Opp. Primary School, Nerle",
+    "role": "citizen",
+    "panchayat_name": "Nerle Gram Panchayat",
+    "created_at": "2024-02-18T09:12:00Z",
+    "updated_at": "2024-02-18T09:12:00Z"
+  },
+  {
+    "id": 3,
+    "panchayat_id": 1,
+    "name": "Amit Babanrao Shinde",
+    "mobile": "9922334455",
+    "gender": "male",
+    "age": 28,
+    "address": "Shivaji Chowk, Nerle",
+    "role": "officer",
+    "panchayat_name": "Nerle Gram Panchayat",
+    "created_at": "2024-01-20T10:30:00Z",
+    "updated_at": "2024-01-20T10:30:00Z"
+  },
+  {
+    "id": 4,
+    "panchayat_id": 2,
+    "name": "Vikas Anandrao Jagtap",
+    "mobile": "9898989898",
+    "gender": "male",
+    "age": 51,
+    "address": "Jagtap Galli, Kole",
+    "role": "citizen",
+    "panchayat_name": "Kole Gram Panchayat",
+    "created_at": "2024-02-22T14:45:00Z",
+    "updated_at": "2024-02-22T14:45:00Z"
+  },
+  {
+    "id": 5,
+    "panchayat_id": 3,
+    "name": "Priyanka Sunil Yewale",
+    "mobile": "9595959595",
+    "gender": "female",
+    "age": 30,
+    "address": "Building A4, Royal Residency, Yewalewadi",
+    "role": "citizen",
+    "panchayat_name": "Yewalewadi Gram Panchayat",
+    "created_at": "2024-03-01T11:00:00Z",
+    "updated_at": "2024-03-01T11:00:00Z"
+  }
+]

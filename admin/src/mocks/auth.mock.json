@@ -1,0 +1,26 @@
+{
+  "super_admin": {
+    "token": "mock-jwt-super-admin-token-value",
+    "refreshToken": "mock-jwt-super-admin-refresh-token-value",
+    "user": {
+      "id": 999,
+      "name": "Super Administrator",
+      "mobile": "9999999999",
+      "role": "super_admin",
+      "panchayat_id": null,
+      "panchayat_name": "All Panchayats"
+    }
+  },
+  "gp_admin": {
+    "token": "mock-jwt-gp-admin-token-value",
+    "refreshToken": "mock-jwt-gp-admin-refresh-token-value",
+    "user": {
+      "id": 888,
+      "name": "GP Admin - Nerle",
+      "mobile": "8888888888",
+      "role": "gp_admin",
+      "panchayat_id": 1,
+      "panchayat_name": "Nerle Gram Panchayat"
+    }
+  }
+}

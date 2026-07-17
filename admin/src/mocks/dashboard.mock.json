@@ -1,0 +1,54 @@
+{
+  "super_admin": {
+    "total_citizens": 9820,
+    "total_complaints": 84,
+    "resolved_complaints": 58,
+    "pending_complaints": 26,
+    "total_notices": 18,
+    "total_collected": 348500,
+    "total_due_bills": 142000,
+    "complaints_by_category": {
+      "road": 32,
+      "water": 24,
+      "streetlight": 15,
+      "garbage": 8,
+      "drainage": 3,
+      "tree": 1,
+      "other": 1
+    },
+    "monthly_revenue": [
+      { "month": "Jan", "amount": 45000 },
+      { "month": "Feb", "amount": 52000 },
+      { "month": "Mar", "amount": 58000 },
+      { "month": "Apr", "amount": 62000 },
+      { "month": "May", "amount": 68000 },
+      { "month": "Jun", "amount": 63500 }
+    ]
+  },
+  "gp_admin": {
+    "total_citizens": 1420,
+    "total_complaints": 12,
+    "resolved_complaints": 8,
+    "pending_complaints": 4,
+    "total_notices": 4,
+    "total_collected": 45000,
+    "total_due_bills": 18200,
+    "complaints_by_category": {
+      "road": 4,
+      "water": 5,
+      "streetlight": 2,
+      "garbage": 1,
+      "drainage": 0,
+      "tree": 0,
+      "other": 0
+    },
+    "monthly_revenue": [
+      { "month": "Jan", "amount": 6000 },
+      { "month": "Feb", "amount": 7500 },
+      { "month": "Mar", "amount": 8000 },
+      { "month": "Apr", "amount": 7200 },
+      { "month": "May", "amount": 8500 },
+      { "month": "Jun", "amount": 7800 }
+    ]
+  }
+}
